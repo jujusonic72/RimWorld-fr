@@ -55,23 +55,23 @@
   <Wimp.degreeDatas.wimp.label>Faiblard</Wimp.degreeDatas.wimp.label>
   <Wimp.degreeDatas.wimp.description>[PAWN_nameDef] est faible et peureux(se). La moindre douleur l'immobilise.</Wimp.degreeDatas.wimp.description>
 
-  <Nimble.degreeDatas.nimble.label>agile</Nimble.degreeDatas.nimble.label>
-  <Nimble.degreeDatas.nimble.description>NAME possède une coordination corporelle remarquable. HECAP semble danser autour du danger avec une grâce surnaturelle.</Nimble.degreeDatas.nimble.description>
+  <Nimble.degreeDatas.nimble.label>Agile</Nimble.degreeDatas.nimble.label>
+  <Nimble.degreeDatas.nimble.description>[PAWN_nameDef] possède une coordination corporelle remarquable. [PAWN_pronoun] semble danser autour du danger avec une grâce surnaturelle.</Nimble.degreeDatas.nimble.description>
 
-  <FastLearner.degreeDatas.fast_learner.label>perspicace</FastLearner.degreeDatas.fast_learner.label>
-  <FastLearner.degreeDatas.fast_learner.description>NAME a des capacités d'apprentissage exceptionnelles. HECAP comprend les choses bien plus vite que les autres.</FastLearner.degreeDatas.fast_learner.description>
+  <FastLearner.degreeDatas.fast_learner.label>Perspicace</FastLearner.degreeDatas.fast_learner.label>
+  <FastLearner.degreeDatas.fast_learner.description>[PAWN_nameDef] a des capacités d'apprentissage exceptionnelles. [PAWN_pronoun] comprend les choses bien plus vite que les autres.</FastLearner.degreeDatas.fast_learner.description>
 
-  <Indoorsman.degreeDatas.indoorsman.label>indoorsman</Indoorsman.degreeDatas.indoorsman.label>
-  <Indoorsman.degreeDatas.indoorsman.description>[PAWN_nameDef] has no need to experience the outdoors. [PAWN_pronoun] will never feel cooped up or get cabin fever, no matter how long [PAWN_pronoun] stays inside.</Indoorsman.degreeDatas.indoorsman.description>
+  <Indoorsman.degreeDatas.indoorsman.label>Casanier(e)</Indoorsman.degreeDatas.indoorsman.label>
+  <Indoorsman.degreeDatas.indoorsman.description>[PAWN_nameDef] n'éprouve pas le besoin de sortir. [PAWN_pronoun] ne se sentira jamais enfermé(e), peu importe combien de temps [PAWN_pronoun] reste à l'intérieur.</Indoorsman.degreeDatas.indoorsman.description>
 
 
   <!-- The below really probably should've been spectrum traits -->
 
-  <Transhumanist.degreeDatas.transhumanist.label>transhumanist</Transhumanist.degreeDatas.transhumanist.label>
-  <Transhumanist.degreeDatas.transhumanist.description>[PAWN_nameDef] feels limited in [PAWN_possessive] feeble human body. [PAWN_pronoun] often dreams of being enhanced by artificial body parts.</Transhumanist.degreeDatas.transhumanist.description>
+  <Transhumanist.degreeDatas.transhumanist.label>Transhumaniste</Transhumanist.degreeDatas.transhumanist.label>
+  <Transhumanist.degreeDatas.transhumanist.description>[PAWN_nameDef] se sent limité(e) par son corps faible. [PAWN_pronoun] rêve souvent d'améliorer ses performances grâce à ses parties du corps superficielles.</Transhumanist.degreeDatas.transhumanist.description>
 
-  <BodyPurist.degreeDatas.body_purist.label>body purist</BodyPurist.degreeDatas.body_purist.label>
-  <BodyPurist.degreeDatas.body_purist.description>[PAWN_nameDef] believes the human body is limited for a reason. To [PAWN_objective], artificial body parts are unethical and disgusting.</BodyPurist.degreeDatas.body_purist.description>
+  <BodyPurist.degreeDatas.body_purist.label>Puriste du corps</BodyPurist.degreeDatas.body_purist.label>
+  <BodyPurist.degreeDatas.body_purist.description>[PAWN_nameDef] croit que le corps humain est limité pour une bonne raison. Pour [PAWN_objective], les parties du corps artificielles sont contraires à l'éthique et dégoûtantes.</BodyPurist.degreeDatas.body_purist.description>
 
   <DislikesMen.degreeDatas.misandrist.label>Misandre</DislikesMen.degreeDatas.misandrist.label>
   <DislikesMen.degreeDatas.misandrist.description>[PAWN_nameDef] n'aime vraiment pas les hommes et se méfie d'eux.</DislikesMen.degreeDatas.misandrist.description>
@@ -79,17 +79,17 @@
   <DislikesWomen.degreeDatas.misogynist.label>Misogyne</DislikesWomen.degreeDatas.misogynist.label>
   <DislikesWomen.degreeDatas.misogynist.description>[PAWN_nameDef] n'aime vraiment pas les femmes et se méfie d'elles.</DislikesWomen.degreeDatas.misogynist.description>
 
-  <GreatMemory.degreeDatas.great_memory.label>great memory</GreatMemory.degreeDatas.great_memory.label>
-  <GreatMemory.degreeDatas.great_memory.description>[PAWN_nameDef] has a fantastic memory for detail. [PAWN_pronoun] will lose unused skills at half the rate of other people.</GreatMemory.degreeDatas.great_memory.description>
+  <GreatMemory.degreeDatas.great_memory.label>Bonne mémoire</GreatMemory.degreeDatas.great_memory.label>
+  <GreatMemory.degreeDatas.great_memory.description>[PAWN_nameDef] a une fantastique mémoire des détails. [PAWN_pronoun] perdra ses compétences inutilisées à moitié moins rapidement que les autres.</GreatMemory.degreeDatas.great_memory.description>
 
-  <Tough.degreeDatas.tough.label>tough</Tough.degreeDatas.tough.label>
-  <Tough.degreeDatas.tough.description>[PAWN_nameDef] has thick skin, dense flesh, and durable bones. [PAWN_pronoun] takes much less damage than other people from the same blows. [PAWN_pronoun] is extremely hard to kill.</Tough.degreeDatas.tough.description>
+  <Tough.degreeDatas.tough.label>Gros dur</Tough.degreeDatas.tough.label>
+  <Tough.degreeDatas.tough.description>[PAWN_nameDef] a la peau dure, la chair épaisse et les os solides. [PAWN_pronoun] subit bien moins de dommages que les autres pour un même coup. [PAWN_pronoun] is extremely hard to kill.</Tough.degreeDatas.tough.description>
 
-  <Gourmand.degreeDatas.gourmand.label>gourmand</Gourmand.degreeDatas.gourmand.label>
-  <Gourmand.degreeDatas.gourmand.description>[PAWN_nameDef]'s life revolves around food. [PAWN_pronoun] gets hungry quickly, and if [PAWN_pronoun] is in a bad mood, [PAWN_pronoun] will often satisfy [PAWN_objective]self by eating.</Gourmand.degreeDatas.gourmand.description>
+  <Gourmand.degreeDatas.gourmand.label>Gourmand</Gourmand.degreeDatas.gourmand.label>
+  <Gourmand.degreeDatas.gourmand.description> [PAWN_nameDef] vit pour manger. [PAWN_pronoun] a vite faim, et si [PAWN_pronoun] est de mauvaise humeur, [PAWN_pronoun] se tournera souvent vers la nourriture pour se calmer.</Gourmand.degreeDatas.gourmand.description>
 
-  <QuickSleeper.degreeDatas.quick_sleeper.label>quick sleeper</QuickSleeper.degreeDatas.quick_sleeper.label>
-  <QuickSleeper.degreeDatas.quick_sleeper.description>[PAWN_nameDef] doesn't need as much sleep as the average person. Whether [PAWN_pronoun]'s sleeping on a bed or on the ground, [PAWN_pronoun] will be fully rested in about two thirds the usual time.</QuickSleeper.degreeDatas.quick_sleeper.description>
+  <QuickSleeper.degreeDatas.quick_sleeper.label>Dort peu</QuickSleeper.degreeDatas.quick_sleeper.label>
+  <QuickSleeper.degreeDatas.quick_sleeper.description>[PAWN_nameDef] a besoin de moins de sommeil que la moyenne. Qu'[PAWN_pronoun] dorme par terre ou dans un lit, [PAWN_pronoun] se restaurera environ deux tiers plus rapidement que la normale.</QuickSleeper.degreeDatas.quick_sleeper.description>
 
 
 </LanguageData>
