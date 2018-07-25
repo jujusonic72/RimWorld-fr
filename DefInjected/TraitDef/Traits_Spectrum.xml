@@ -70,10 +70,10 @@
   <Beauty.degreeDatas.staggeringly_ugly.label>Affreux</Beauty.degreeDatas.staggeringly_ugly.label>
   <Beauty.degreeDatas.staggeringly_ugly.description>[PAWN_nameDef] est incroyablement laid(e). Son visage ressemble à un dessin d'enfant croisé avec un fœtus malformé à l'intérieur d'un bocal et une pièce d'art moderne. Lors des discussions, les gens doivent faire un effort de concentration pour le(la) regarder.</Beauty.degreeDatas.staggeringly_ugly.description>
 
-  <Immunity.degreeDatas.superimmune.label>super-immune</Immunity.degreeDatas.superimmune.label>
-  <Immunity.degreeDatas.superimmune.description>[PAWN_nameDef] has a naturally powerful immune system. [PAWN_pronoun] will gain immunity much faster than a normal person would, and can survive illnesses that would kill others.</Immunity.degreeDatas.superimmune.description>
-  <Immunity.degreeDatas.sickly.label>sickly</Immunity.degreeDatas.sickly.label>
-  <Immunity.degreeDatas.sickly.description>[PAWN_nameDef] has an awful immune system. [PAWN_pronoun] gets sick more often than usual, frequently with illnesses that nobody in the colony has been afflicted by.</Immunity.degreeDatas.sickly.description>
+  <Immunity.degreeDatas.superimmune.label>Super-immunisé(e)</Immunity.degreeDatas.superimmune.label>
+  <Immunity.degreeDatas.superimmune.description>[PAWN_nameDef] a un système immunitaire naturellement très efficace. [PAWN_pronoun] gagnera de l'immunité beaucoup plus rapidement que la moyenne des gens, et peut survivre à des maladies qui tueraient les autres.</Immunity.degreeDatas.superimmune.description>
+  <Immunity.degreeDatas.sickly.label>Chétif/ve</Immunity.degreeDatas.sickly.label>
+  <Immunity.degreeDatas.sickly.description>[PAWN_nameDef] a un terrible système immunitaire. [PAWN_pronoun] tombe malade plus souvent que la moyenne, et attrape souvent des maladies qui n'ont frappé personne d'autre dans la colonie.</Immunity.degreeDatas.sickly.description>
 
 
 </LanguageData>
