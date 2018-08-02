@@ -45,7 +45,7 @@
   </Aurora.rulePack.rulesStrings>
   
   <!-- EN: caravan ambushed -->
-  <CaravanAmbushedByHumanlike.label>caravane embusquée</CaravanAmbushedByHumanlike.label>
+  <CaravanAmbushedByHumanlike.label>caravane prise en embuscade</CaravanAmbushedByHumanlike.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef]'s caravan being ambushed</li>
     <li>image->[PAWN_nameFull] cowering [circumstance_group]</li>
@@ -182,7 +182,7 @@
   </CaravanDemand.rulePack.rulesStrings>
   
   <!-- EN: caravan meeting -->
-  <CaravanMeeting.label>rencontre de la caravane</CaravanMeeting.label>
+  <CaravanMeeting.label>rencontre de caravane</CaravanMeeting.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef]'s caravan being met by others</li>
     <li>image->[PAWN_nameFull] greeting a [PersonJob] [circumstance_group]</li>
@@ -219,7 +219,7 @@
     <li>image->[PAWN_nameFull] joue au/aux [Game] avec un(e) [PersonJob] [circumstance_group]</li>
     <li>circumstance_phrase->d'un air [AdjectiveFriendly]</li>
     <li>circumstance_phrase->d'un air [AdjectiveFriendly]</li>
-    <li>circumstance_phrase->tout en [friendlyverb]</li>
+    <li>circumstance_phrase->tout en [VerbFriendly]</li>
     <li>circumstance_phrase->alors que les autres regardent</li>
     <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s [event].</li>
     <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s [event].</li>
@@ -367,7 +367,6 @@
   
   <!-- EN: journey offer -->
   <JourneyOffer.label>proposition de voyage</JourneyOffer.label>
-<!--   <JourneyOffer.label>proposition de voyage</JourneyOffer.label> -->
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] receiving a message from an old friend</li>
     <li>tale_noun->an opportunity arriving for [PAWN_nameDef]'s [Community]</li>
@@ -414,17 +413,17 @@
     <li>transmission_source->un signal à faible énergie</li>
     <li>transmission_source->un signal à longue portée</li>
     <li>transmission_source->un mystérieux signal</li>
-    <li>circumstance_phrase->qu'il/elle se tient seul(e) près d'un(e) [TerrainFeature].</li>
-    <li>circumstance_phrase->qu'il/elle explore un(e) [TerrainFeature].</li>
-    <li>circumstance_phrase->qu'il/elle jardine.</li>
+    <li>circumstance_phrase->qu'[PAWN_pronoun] se tient seul(e) près d'un(e) [TerrainFeature].</li>
+    <li>circumstance_phrase->qu'[PAWN_pronoun] explore un(e) [TerrainFeature].</li>
+    <li>circumstance_phrase->qu'[PAWN_pronoun] jardine.</li>
     <li>circumstance_phrase->qu'un(e) [Animal] passe par là.</li>
-    <li>circumstance_phrase->qu'il/elle joue au/aux [Game].</li>
+    <li>circumstance_phrase->qu'[PAWN_pronoun] joue au/aux [Game].</li>
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s vaquent à leurs occupations dans les environs.</li>
-    <li>desc_sentence->Pendant que [pawn_pronoun] lit, [pawn_pronoun] commence à [friendlyverb].</li>
+    <li>desc_sentence->Pendant qu'[PAWN_pronoun] lit, [PAWN_pronoun] commence à [VerbFriendly].</li>
     <li>desc_sentence->Le fantôme d'un(e) [PersonJob] observe depuis les nuages.</li>
     <li>desc_sentence->[PAWN_nameDef] est assis(e) près d'un(e) [TerrainFeature].</li>
     <li>desc_sentence->On aperçoit au loin un(e) [Community].</li>
-    <li>desc_sentence->On aperçoit au loin un vaisseau spacial.</li>
+    <li>desc_sentence->On aperçoit au loin un vaisseau spatial.</li>
   </JourneyOffer.rulePack.rulesStrings>
   
   <!-- EN: manhunter pack -->
@@ -839,7 +838,7 @@
     <li>circumstance_phrase->barely illuminated by thin shafts of light</li>
     <li>circumstance_phrase->starkly illuminated with chilly blue light</li>
     <li>desc_sentence->[PAWN_nameDef] huddles near a fire.</li>
-    <li>desc_sentence->To stay warm, [PAWN_nameDef] wears [Quantity_adjphrase] [apparel]s.</li>
+    <li>desc_sentence->To stay warm, [PAWN_nameDef] wears [Quantity_adjphrase] [Apparel]s.</li>
     <li>desc_sentence->[PAWN_nameDef] sits nearby, visibly exhausted by the ordeal.</li>
     <li>desc_sentence->[PAWN_nameDef] hides near a [TerrainFeature], gazing out with a [AdjectiveAngsty] look.</li>
     <li>desc_sentence->[Quantity_adjphrase] starving [Animal]s surround the scene.</li>
