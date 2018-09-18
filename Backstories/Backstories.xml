@@ -6819,16 +6819,16 @@
     <!-- EN: soldier -->
     <titleShort>TODO</titleShort>
     <!-- EN: [PAWN_nameDef] was born into a long line of soldiers. He followed that heritage, joining a military training program.\n\nHe excelled in all physical training programs in his Marine course, and even passed most of the intellectual exams. While he was never particularly bright or nimble, [PAWN_nameDef] learned the value of hard work and suffering. -->
-    <desc>TODO</desc>
+    <desc>TODO</desc>est né d'une grande lignée de soldats. Il a suivit cet héritage en joignant un programme d'entrainement militaire. Il exèlait dans les entrainements physiques de la marine et a même passé la plupart des examens intellectuels. Il n'était pas particulièrement brillant ou agile, mais il a apris la valeur du travail acharné et de la soufrance.
   </YouthSoldier87>
   
   <YouthSoldier99>
     <!-- EN: youth soldier -->
-    <title>TODO</title>
+    <title>jeune soldat</title>
     <!-- EN: soldier -->
-    <titleShort>TODO</titleShort>
+    <titleShort>soldat</titleShort>
     <!-- EN: Born to a long line of soldiers, [PAWN_nameDef] joined a military training program.\n\n[PAWN_pronoun] excelled in physical training, and even passed most of the intellectual exams. While [PAWN_pronoun] was never particularly bright or nimble, [PAWN_nameDef] learned the value of hard work and suffering. -->
-    <desc>TODO</desc>
+    <desc>TODO</desc>né d'une longue lignée de soldats, [PAWN_nameDef] a rejoint un programme d'entrainement militaire. [PAWN_nameDef] exèlait dans les entrainements physiques et a même passé la plupart des examens intellectuels. [PAWN_nameDef] n'était pas particulièrement brillant ou agile, mais il a apris la valeur du travail acharné et de la soufrance.
   </YouthSoldier99>
   
 </BackstoryTranslations>
